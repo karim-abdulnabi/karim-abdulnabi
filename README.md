@@ -24,6 +24,7 @@ you will know how to reach me and all my projects and my education , all certifi
 - 📄 Know about my experiences [https://drive.google.com/file/d/13DDcM4PKVavBTZ9SP9NdcPCUwEXxQPCh/view?usp=sharing](https://drive.google.com/file/d/13DDcM4PKVavBTZ9SP9NdcPCUwEXxQPCh/view?usp=sharing)
 
 - ⚡ Fun fact **I'm funny**
+<img align="right" src="https://media.licdn.com/dms/image/C4E22AQEQ--95P-JpKQ/feedshare-shrink_1280/0/1673148467170?e=1675900800&v=beta&t=Fl0MFNN2g1emcR4guvzt1Br2s09dSTi9aFdKejpoMqc" width = "400" height = "300" alt="coding"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,9 +42,7 @@ you will know how to reach me and all my projects and my education , all certifi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-abdulnabi&show_icons=true&locale=en" alt="karim-abdulnabi" /></p>
 
-
-<p><img align="left" src="https://media.licdn.com/dms/image/C4E22AQEQ--95P-JpKQ/feedshare-shrink_1280/0/1673148467170?e=1675900800&v=beta&t=Fl0MFNN2g1emcR4guvzt1Br2s09dSTi9aFdKejpoMqc" width = "360" height = "200" alt="coding"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-abdulnabi&" alt="karim-abdulnabi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-abdulnabi&" alt="karim-abdulnabi" /></p>
 
 
 
