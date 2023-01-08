@@ -38,9 +38,11 @@ you will know how to reach me and all my projects and my education , all certifi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-abdulnabi&show_icons=true&locale=en&layout=compact" alt="karim-abdulnabi" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-abdulnabi&show_icons=true&locale=en" alt="karim-abdulnabi" /></p>
 
-<p><img align="legt" src="https://media.licdn.com/dms/image/C4E22AQEQ--95P-JpKQ/feedshare-shrink_1280/0/1673148467170?e=1675900800&v=beta&t=Fl0MFNN2g1emcR4guvzt1Br2s09dSTi9aFdKejpoMqc" width = "360" height = "200" alt="coding"/>
+
+<p><img align="left" src="https://media.licdn.com/dms/image/C4E22AQEQ--95P-JpKQ/feedshare-shrink_1280/0/1673148467170?e=1675900800&v=beta&t=Fl0MFNN2g1emcR4guvzt1Br2s09dSTi9aFdKejpoMqc" width = "360" height = "200" alt="coding"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-abdulnabi&" alt="karim-abdulnabi" /></p>
 
 
