@@ -9,7 +9,7 @@
 you will know how to reach me and all my projects and my education , all certificates and courses which i had , my university and date of graduation and my GPA
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-abdulnabi&label=Profile%20views&color=0e75b6&style=flat" alt="karim-abdulnabi" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/karimabdulnabi" target="blank"><img src="https://img.shields.io/twitter/follow/karimabdulnabi?logo=twitter&style=for-the-badge" alt="karimabdulnabi" /></a> </p>
 
