@@ -21,7 +21,7 @@ you will know how to reach me and all my projects and my education , all certifi
 
 - 📫 How to reach me **karimabdulnabi999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13DDcM4PKVavBTZ9SP9NdcPCUwEXxQPCh/view?usp=sharing](https://drive.google.com/file/d/13DDcM4PKVavBTZ9SP9NdcPCUwEXxQPCh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13DDcM4PKVavBTZ9SP9NdcPCUwEXxQPCh/view?usp=sharing](https://drive.google.com/file/d/1dwgaURXmViCBZHNxSsCW_DmhSdK3ynLa/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm funny**
 
