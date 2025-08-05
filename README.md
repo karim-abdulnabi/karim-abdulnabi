@@ -1,11 +1,11 @@
-<!-- ASCII Art Header (optional) -->
+<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Karim;AI+Engineer+🚀;ML Researcher 🔬;Pythoner 🐍" alt="Typing SVG Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Karim;AI+Engineer+🚀;ML+Researcher+🔬;Pythoner+🐍" alt="Typing SVG">
 </p>
 
 <!-- Profile View Counter -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=karim-abdulnabi&label=Profile+Views&color=blueviolet" alt="Profile Views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karim-abdulnabi&label=Profile+Views&color=blueviolet" alt="Profile Views">
 </p>
 
 ---
