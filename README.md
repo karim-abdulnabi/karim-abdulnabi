@@ -1,14 +1,18 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Karim;AI+Engineer+🚀;ML+Researcher+🔬;Pythoner+🐍" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&separator=%3C&lines=Hi%F0%9F%91%8B+I'm+Karim;+AI+Engineer%F0%9F%9A%80;%3CML+Researcher+%F0%9F%94%AC;Pythoner%F0%9F%90%8D"  />
+  </a>
 </p>
+
 
 <!-- Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karim-abdulnabi&label=Profile+Views&color=blueviolet" alt="Profile Views">
-</p>
 
----
+
+
+
+<img src="https://github.com/DhanushNehru/DhanushNehru/raw/master/assets/animated-divider.gif" align="center" width="100%" alt="Animated Divider Image" style="visibility: visible; max-width: 100%;">
+
 
 ### 🛠️ **Technical Toolkit**
 
@@ -28,7 +32,7 @@
 ![MLOps](https://img.shields.io/badge/-MLOps-00BFFF)
 ![DL](https://img.shields.io/badge/-DL-00BFFF)
 
----
+<img src="https://github.com/DhanushNehru/DhanushNehru/raw/master/assets/animated-divider.gif" align="center" width="100%" alt="Animated Divider Image" style="visibility: visible; max-width: 100%;">
 
 ### 🚀 **Featured Projects**
 
@@ -39,7 +43,8 @@
 | [Kaggle](https://www.kaggle.com/code/karimabdulnabi/heart-failure-risk-exploration-ml-ann) | **Heart_Failure_Risk_Exploration ML&ANN** | Leading this charge are cardiovascular diseases (CVDs), reigning supreme as the primary global cause of mortality. | ![Pandas](https://img.shields.io/badge/Pandas-150458) ![XGBoost](https://img.shields.io/badge/XGBoost-017BFF) | ![Medal](https://img.shields.io/badge/Bronze-8B4513) Top 10% |
 | [Kaggle](https://www.kaggle.com/code/karimabdulnabi/fruits-classification-by-cnn) | **fruits classification by CNN 🥝🍇** | calssification for 10 class of fruits  | ![CNN](https://img.shields.io/badge/CNN-FF6F00) | ![Medal](https://img.shields.io/badge/Bronze-8B4513) Top 5% |
 | [Kaggle](https://www.kaggle.com/code/karimabdulnabi/official-exchange-rates) | **Official Currency Exchange Rates Dataset 📈💱** | Analysis of daily foreign exchange records approved (2020-2023) with a focus on the Egyptian currency | ![Pandas](https://img.shields.io/badge/Pandas-150458) ![XGBoost](https://img.shields.io/badge/XGBoost-017BFF) ![SVM](https://img.shields.io/badge/SVM-FF6F00) ![Plotly](https://img.shields.io/badge/Plotly-FF6F00)| ![Medal](https://img.shields.io/badge/Bronze-8B4513) Top 20%| |
----
+
+<img src="https://github.com/DhanushNehru/DhanushNehru/raw/master/assets/animated-divider.gif" align="center" width="100%" alt="Animated Divider Image" style="visibility: visible; max-width: 100%;">
 
 ### 📈 **GitHub Metrics**
 
@@ -48,11 +53,12 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-abdulnabi&theme=radical" />
 </p>
 
----
+<img src="https://github.com/DhanushNehru/DhanushNehru/raw/master/assets/animated-divider.gif" align="center" width="100%" alt="Animated Divider Image" style="visibility: visible; max-width: 100%;">
+
 ![karim abdulnabi](https://miro.medium.com/max/1400/1*37ABKi4XeHkEWHxlF3LIog.gif)
 
 
----
+<img src="https://github.com/DhanushNehru/DhanushNehru/raw/master/assets/animated-divider.gif" align="center" width="100%" alt="Animated Divider Image" style="visibility: visible; max-width: 100%;">
 
 ### 📝 **Additional information**
 <!-- BLOG-POST-LIST:START -->
@@ -63,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
----
+<img src="https://github.com/DhanushNehru/DhanushNehru/raw/master/assets/animated-divider.gif" align="center" width="100%" alt="Animated Divider Image" style="visibility: visible; max-width: 100%;">
 
 ### 🤝 **Connect With Me**
 
