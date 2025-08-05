@@ -1,9 +1,10 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&separator=%3C&lines=Hi%F0%9F%91%8B+I'm+Karim;+AI+Engineer%F0%9F%9A%80;%3CML+Researcher+%F0%9F%94%AC;Pythoner%F0%9F%90%8D"  />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&separator=%3C&lines=Hi%F0%9F%91%8B+I'm+Karim;+AI+Engineer%F0%9F%9A%80;%3C"  />
   </a>
 </p>
+
 
 
 <!-- Profile View Counter -->
